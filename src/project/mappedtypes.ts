@@ -22,6 +22,7 @@ const user: User = { name: "Remo", age: 28};
 const keys = getKeys<User>(user);
 console.log(keys.name, keys.age)
 
+/*
 // Declares all properties in T optional
 type Partial<T> = {
     [P in keyof T]?: T[P];
@@ -37,3 +38,37 @@ type Pick<T, K extends keyof T> = {
 type Record<K extends string, T> = {
     [P in K]: T;
 }
+*/
+
+type ReadonlyAndPartial<T> = {
+    readonly [P in keyof T]?:T[P]
+}
+
+type ReadonlyAndPartial2<T> = {
+    +readonly [P in keyof T]+?: T[P]
+}
+
+type Mutable<T> = {
+    -readonly [P in keyof T]: T[P]
+}
+
+interface Foo{
+    readonly abc: number;
+    def?:string;
+}
+
+type TotallyMutableFoo = Mutable<Foo>
+
+type Required2<T> = {
+    [P in keyof T]-?: T[P]
+}
+
+type ReturnType1<T extends (...args:any[]) => any> = T extends(...args: any[]) => infer R? R: any;
+
+type func1 = () => number;
+type returnOfFunc1 = ReturnType1<func1>;
+
+
+
+
+
