@@ -1,0 +1,506 @@
+{
+    "data": {
+      "records": [
+        {
+          "id": "0x000a97d591f1037c5002a1c7d52afd227146e5750x420331b722e3b5a4b738a7edd6a629ead48c5c980xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x000a97d591f1037c5002a1c7d52afd227146e575",
+          "pledgeAmount": "3354315333986316095"
+        },
+        {
+          "id": "0x085f3b49dd2ec1505813dae9f09f8d3cb92c4eef0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x085f3b49dd2ec1505813dae9f09f8d3cb92c4eef",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x085f3b49dd2ec1505813dae9f09f8d3cb92c4eef0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x085f3b49dd2ec1505813dae9f09f8d3cb92c4eef",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x085f3b49dd2ec1505813dae9f09f8d3cb92c4eef0xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x085f3b49dd2ec1505813dae9f09f8d3cb92c4eef",
+          "pledgeAmount": "170833489505981"
+        },
+        {
+          "id": "0x0aab1b2a4981a63010fc1dc56b8de183108b95150xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x0aab1b2a4981a63010fc1dc56b8de183108b9515",
+          "pledgeAmount": "28550422429578865608"
+        },
+        {
+          "id": "0x0d15615a7c256ea727d7641da8e86ea1fecf07f70xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x0d15615a7c256ea727d7641da8e86ea1fecf07f7",
+          "pledgeAmount": "33817376842417"
+        },
+        {
+          "id": "0x0da8e3a2993888478ed793902855b24d19af483e0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x0da8e3a2993888478ed793902855b24d19af483e",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x10bcf65352bb8e1c958702fb315ba1c0515534580xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x10bcf65352bb8e1c958702fb315ba1c051553458",
+          "pledgeAmount": "46779496309308"
+        },
+        {
+          "id": "0x148b55bdf6007d02e6b82e43792f2fb7c2896f9f0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x148b55bdf6007d02e6b82e43792f2fb7c2896f9f",
+          "pledgeAmount": "69683137417768517170"
+        },
+        {
+          "id": "0x157a63801849ead31b81bb9b1d1fd81a8cacc76f0x420331b722e3b5a4b738a7edd6a629ead48c5c980x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+          "owner": "0x157a63801849ead31b81bb9b1d1fd81a8cacc76f",
+          "pledgeAmount": "5235534910796022696"
+        },
+        {
+          "id": "0x174c3229ec9e6c2047e18b09e8dc17df48d5a8bd0x420331b722e3b5a4b738a7edd6a629ead48c5c980xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x174c3229ec9e6c2047e18b09e8dc17df48d5a8bd",
+          "pledgeAmount": "14486481826295000343"
+        },
+        {
+          "id": "0x19e6d64c50de141a8c3a50995ffdf064734b8b980xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x19e6d64c50de141a8c3a50995ffdf064734b8b98",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x1ae3211e249febfe34359c885e8c4127b86b23240xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x1ae3211e249febfe34359c885e8c4127b86b2324",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x1ae3211e249febfe34359c885e8c4127b86b23240xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x1ae3211e249febfe34359c885e8c4127b86b2324",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x1b6d3d158e210ff5d4bbd1c71d552f9845c394230xa2b762071e74da03df65df7963722bfceca944ed0xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x1b6d3d158e210ff5d4bbd1c71d552f9845c39423",
+          "pledgeAmount": "2608280389683635614721"
+        },
+        {
+          "id": "0x1b6d3d158e210ff5d4bbd1c71d552f9845c394230xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x1b6d3d158e210ff5d4bbd1c71d552f9845c39423",
+          "pledgeAmount": "41956376448066257100434"
+        },
+        {
+          "id": "0x1b6d3d158e210ff5d4bbd1c71d552f9845c394230xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x1b6d3d158e210ff5d4bbd1c71d552f9845c39423",
+          "pledgeAmount": "9149190918142467"
+        },
+        {
+          "id": "0x1e98cba332193d2edc46806ea29fc400ef9a62f20x04f538583568606c5267f5ab40a594e9801262d30x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x1e98cba332193d2edc46806ea29fc400ef9a62f2",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x1e98cba332193d2edc46806ea29fc400ef9a62f20x04f538583568606c5267f5ab40a594e9801262d30xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x1e98cba332193d2edc46806ea29fc400ef9a62f2",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x1e98cba332193d2edc46806ea29fc400ef9a62f20x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x1e98cba332193d2edc46806ea29fc400ef9a62f2",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x2160d8ab850d526e88e9da5e515a0ed905938cb00xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x2160d8ab850d526e88e9da5e515a0ed905938cb0",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x22affa98bee509d44e5efb1a1810b9d9d63e3f300xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x22affa98bee509d44e5efb1a1810b9d9d63e3f30",
+          "pledgeAmount": "41618236484795020913"
+        },
+        {
+          "id": "0x236940ad9d395f8f50a8e1c9800793aced8da60a0x04f538583568606c5267f5ab40a594e9801262d30x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x236940ad9d395f8f50a8e1c9800793aced8da60a",
+          "pledgeAmount": "822217818754457535"
+        },
+        {
+          "id": "0x236940ad9d395f8f50a8e1c9800793aced8da60a0x420331b722e3b5a4b738a7edd6a629ead48c5c980x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+          "owner": "0x236940ad9d395f8f50a8e1c9800793aced8da60a",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x23699abe9921c29f8917dd8baec9078859a2b49a0x420331b722e3b5a4b738a7edd6a629ead48c5c980xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x23699abe9921c29f8917dd8baec9078859a2b49a",
+          "pledgeAmount": "10475510869863148359"
+        },
+        {
+          "id": "0x23699abe9921c29f8917dd8baec9078859a2b49a0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x23699abe9921c29f8917dd8baec9078859a2b49a",
+          "pledgeAmount": "540157715739655298605"
+        },
+        {
+          "id": "0x276b9dae2b199c437b2abd43746bea503b55234f0xa2b762071e74da03df65df7963722bfceca944ed0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+          "owner": "0x276b9dae2b199c437b2abd43746bea503b55234f",
+          "pledgeAmount": "799969316083577552156"
+        },
+        {
+          "id": "0x276b9dae2b199c437b2abd43746bea503b55234f0xa2b762071e74da03df65df7963722bfceca944ed0xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x276b9dae2b199c437b2abd43746bea503b55234f",
+          "pledgeAmount": "798610315034644514573"
+        },
+        {
+          "id": "0x276b9dae2b199c437b2abd43746bea503b55234f0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x276b9dae2b199c437b2abd43746bea503b55234f",
+          "pledgeAmount": "8770624000414267979867"
+        },
+        {
+          "id": "0x276b9dae2b199c437b2abd43746bea503b55234f0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x276b9dae2b199c437b2abd43746bea503b55234f",
+          "pledgeAmount": "8740957784789491257164"
+        },
+        {
+          "id": "0x28038bc6f3b028bd2ca483bfc770025c1e20f1510x04f538583568606c5267f5ab40a594e9801262d30xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x28038bc6f3b028bd2ca483bfc770025c1e20f151",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x28038bc6f3b028bd2ca483bfc770025c1e20f1510x420331b722e3b5a4b738a7edd6a629ead48c5c980x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+          "owner": "0x28038bc6f3b028bd2ca483bfc770025c1e20f151",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x28038bc6f3b028bd2ca483bfc770025c1e20f1510xa2b762071e74da03df65df7963722bfceca944ed0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+          "owner": "0x28038bc6f3b028bd2ca483bfc770025c1e20f151",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x28038bc6f3b028bd2ca483bfc770025c1e20f1510xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x28038bc6f3b028bd2ca483bfc770025c1e20f151",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x28038bc6f3b028bd2ca483bfc770025c1e20f1510xfa7fe51a4904586f9bfe5ba0eb93246928324f520x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x28038bc6f3b028bd2ca483bfc770025c1e20f151",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x28059cc0b684c2c2e00a3c5e77ab4b0c96f9f0670x01b49799d6301082fb612d4e9895b630dcccb5970x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+          "owner": "0x28059cc0b684c2c2e00a3c5e77ab4b0c96f9f067",
+          "pledgeAmount": "115325835050992766258"
+        },
+        {
+          "id": "0x28059cc0b684c2c2e00a3c5e77ab4b0c96f9f0670x420331b722e3b5a4b738a7edd6a629ead48c5c980xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x28059cc0b684c2c2e00a3c5e77ab4b0c96f9f067",
+          "pledgeAmount": "2047467677389320141689"
+        },
+        {
+          "id": "0x285b03b101c205fabdac187f137536d761c700070xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x285b03b101c205fabdac187f137536d761c70007",
+          "pledgeAmount": "540424737935"
+        },
+        {
+          "id": "0x2aa40736fa2fc473c5625811eea09de4525ca91e0x420331b722e3b5a4b738a7edd6a629ead48c5c980x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+          "owner": "0x2aa40736fa2fc473c5625811eea09de4525ca91e",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x2d5d6c84ed39b93c310f6bb807af713c5d028c590xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x2d5d6c84ed39b93c310f6bb807af713c5d028c59",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x2d83750bdb3139eed1f76952db472a512685e3e00xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x2d83750bdb3139eed1f76952db472a512685e3e0",
+          "pledgeAmount": "140260779693586502"
+        },
+        {
+          "id": "0x2dbb122502cb1d175d7ca39d8381ac0f6da844760xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x2dbb122502cb1d175d7ca39d8381ac0f6da84476",
+          "pledgeAmount": "20934664671026044742048"
+        },
+        {
+          "id": "0x2dbb122502cb1d175d7ca39d8381ac0f6da844760xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x2dbb122502cb1d175d7ca39d8381ac0f6da84476",
+          "pledgeAmount": "5110622334209657"
+        },
+        {
+          "id": "0x2f39064d60e30cefc7c20af2533b834a8a8f08ad0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x2f39064d60e30cefc7c20af2533b834a8a8f08ad",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x2f43057c3c3b891fe1900f33358da410613974a00x181ef02b6134a5454f8f15886877d481d01fd6300xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x2f43057c3c3b891fe1900f33358da410613974a0",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x2f5656368e2ad3fcbc8f699a8729cf286d7ffba70xfa7fe51a4904586f9bfe5ba0eb93246928324f520x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x2f5656368e2ad3fcbc8f699a8729cf286d7ffba7",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x3207525a36a7352ce297f979b06c103bc926df710x420331b722e3b5a4b738a7edd6a629ead48c5c980xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x3207525a36a7352ce297f979b06c103bc926df71",
+          "pledgeAmount": "254110665257481228479"
+        },
+        {
+          "id": "0x3207525a36a7352ce297f979b06c103bc926df710xa2b762071e74da03df65df7963722bfceca944ed0xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x3207525a36a7352ce297f979b06c103bc926df71",
+          "pledgeAmount": "1207136948557161142950"
+        },
+        {
+          "id": "0x3207525a36a7352ce297f979b06c103bc926df710xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x3207525a36a7352ce297f979b06c103bc926df71",
+          "pledgeAmount": "9567917658576065420775"
+        },
+        {
+          "id": "0x3215a5aa31e7320504bbb9b51a2f58bcde33f6620x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x3215a5aa31e7320504bbb9b51a2f58bcde33f662",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x36b60aeffb54a6c26d87269882ecbab4480132280xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x36b60aeffb54a6c26d87269882ecbab448013228",
+          "pledgeAmount": "994380750131429726780"
+        },
+        {
+          "id": "0x38327629d666e8a076981fb5b34991c0426661870xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x38327629d666e8a076981fb5b34991c042666187",
+          "pledgeAmount": "1287166449671493"
+        },
+        {
+          "id": "0x39736e5520a13cb5a2badde76ad1f6641b2e53000x420331b722e3b5a4b738a7edd6a629ead48c5c980x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+          "owner": "0x39736e5520a13cb5a2badde76ad1f6641b2e5300",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x39736e5520a13cb5a2badde76ad1f6641b2e53000xa2b762071e74da03df65df7963722bfceca944ed0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+          "owner": "0x39736e5520a13cb5a2badde76ad1f6641b2e5300",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x39736e5520a13cb5a2badde76ad1f6641b2e53000xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x39736e5520a13cb5a2badde76ad1f6641b2e5300",
+          "pledgeAmount": "62766552086143765419375"
+        },
+        {
+          "id": "0x39736e5520a13cb5a2badde76ad1f6641b2e53000xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x39736e5520a13cb5a2badde76ad1f6641b2e5300",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x39736e5520a13cb5a2badde76ad1f6641b2e53000xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x39736e5520a13cb5a2badde76ad1f6641b2e5300",
+          "pledgeAmount": "15812245949662694"
+        },
+        {
+          "id": "0x3a64d283e8b2074b0a635d1d0c4853c3ad44d04b0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x3a64d283e8b2074b0a635d1d0c4853c3ad44d04b",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x3b45ff00e3fe0637d01cb810a6fc5023c159a7d00xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x3b45ff00e3fe0637d01cb810a6fc5023c159a7d0",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x3c26701a18dd6ad90d4d66a07cd14de4332202120xa2b762071e74da03df65df7963722bfceca944ed0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+          "owner": "0x3c26701a18dd6ad90d4d66a07cd14de433220212",
+          "pledgeAmount": "13799288240587575753788"
+        },
+        {
+          "id": "0x3c26701a18dd6ad90d4d66a07cd14de4332202120xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x3c26701a18dd6ad90d4d66a07cd14de433220212",
+          "pledgeAmount": "304785550750201"
+        },
+        {
+          "id": "0x3d0738574504d73c0dc58a808c84fdd62e7abfc40x420331b722e3b5a4b738a7edd6a629ead48c5c980xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x3d0738574504d73c0dc58a808c84fdd62e7abfc4",
+          "pledgeAmount": "7609653733760129862"
+        },
+        {
+          "id": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d4650x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d465",
+          "pledgeAmount": "310434322912331855926242"
+        },
+        {
+          "id": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d4650xa2b762071e74da03df65df7963722bfceca944ed0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+          "owner": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d465",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d4650xa2b762071e74da03df65df7963722bfceca944ed0xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d465",
+          "pledgeAmount": "17552600895908348720934"
+        },
+        {
+          "id": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d4650xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d465",
+          "pledgeAmount": "104302322767852662081935"
+        },
+        {
+          "id": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d4650xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x3d78f9d556d1f50a3e5e0d159077fdbb3628d465",
+          "pledgeAmount": "80933543520162650"
+        },
+        {
+          "id": "0x3f227d1d77f8ef297374b449b5b35e6f6fd7faf30xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x3f227d1d77f8ef297374b449b5b35e6f6fd7faf3",
+          "pledgeAmount": "3820698082365846"
+        },
+        {
+          "id": "0x3fa0f53fc06dc5d7df77505dea6e96cdd6e99b050xfa7fe51a4904586f9bfe5ba0eb93246928324f520x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x3fa0f53fc06dc5d7df77505dea6e96cdd6e99b05",
+          "pledgeAmount": "8678072125663"
+        },
+        {
+          "id": "0x4004723d0640d06687520841cd2d80b951da542b0x181ef02b6134a5454f8f15886877d481d01fd6300xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x4004723d0640d06687520841cd2d80b951da542b",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x4004723d0640d06687520841cd2d80b951da542b0x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x4004723d0640d06687520841cd2d80b951da542b",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x4006684b8ed6de165033b94308c1995fef6bb17a0xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x4006684b8ed6de165033b94308c1995fef6bb17a",
+          "pledgeAmount": "47744055041031726436"
+        },
+        {
+          "id": "0x4061e190cc2872e026b848daec964cb4d9f129c60x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x4061e190cc2872e026b848daec964cb4d9f129c6",
+          "pledgeAmount": "99003970944627273974382"
+        },
+        {
+          "id": "0x4061e190cc2872e026b848daec964cb4d9f129c60xaf483ed1334c7892e8364e8d5fdf5e719089f7b70x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x4061e190cc2872e026b848daec964cb4d9f129c6",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x41e6656444d244833d0598cf960dccf46215d7e80x181ef02b6134a5454f8f15886877d481d01fd6300xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x41e6656444d244833d0598cf960dccf46215d7e8",
+          "pledgeAmount": "1388066460770922017"
+        },
+        {
+          "id": "0x43b30be5cec9fd73ebf4922b21ee9e63ac1783110x04f538583568606c5267f5ab40a594e9801262d30x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x43b30be5cec9fd73ebf4922b21ee9e63ac178311",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x45655d03e0eb2d02ef3f8a85da89528f6b93b63d0xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x45655d03e0eb2d02ef3f8a85da89528f6b93b63d",
+          "pledgeAmount": "102101988228776"
+        },
+        {
+          "id": "0x458e13a15ff3e03c16116a561182daf8764862910x04f538583568606c5267f5ab40a594e9801262d30x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x458e13a15ff3e03c16116a561182daf876486291",
+          "pledgeAmount": "34189660923627557"
+        },
+        {
+          "id": "0x4669548f8ebfbe26bb0b526502cb6586ef4b3bf70xaf483ed1334c7892e8364e8d5fdf5e719089f7b70xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x4669548f8ebfbe26bb0b526502cb6586ef4b3bf7",
+          "pledgeAmount": "8002936559080907165"
+        },
+        {
+          "id": "0x47d528a2b7fd3a753fb9c259e28bd26c4fe816e00x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x47d528a2b7fd3a753fb9c259e28bd26c4fe816e0",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x47d528a2b7fd3a753fb9c259e28bd26c4fe816e00xa2b762071e74da03df65df7963722bfceca944ed0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+          "owner": "0x47d528a2b7fd3a753fb9c259e28bd26c4fe816e0",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x47d528a2b7fd3a753fb9c259e28bd26c4fe816e00xfa7fe51a4904586f9bfe5ba0eb93246928324f520x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x47d528a2b7fd3a753fb9c259e28bd26c4fe816e0",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x483b52b4c037b62e8f9ac0babb7a9c3dce398ca10xa2b762071e74da03df65df7963722bfceca944ed0xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x483b52b4c037b62e8f9ac0babb7a9c3dce398ca1",
+          "pledgeAmount": "178590359240657341370"
+        },
+        {
+          "id": "0x4a3b9e1fe0a1622d68d0468fc2b12bec68006c860x181ef02b6134a5454f8f15886877d481d01fd6300xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x4a3b9e1fe0a1622d68d0468fc2b12bec68006c86",
+          "pledgeAmount": "11987953804136603006129"
+        },
+        {
+          "id": "0x4a3b9e1fe0a1622d68d0468fc2b12bec68006c860x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x4a3b9e1fe0a1622d68d0468fc2b12bec68006c86",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x4b745b4e9925778f85ee364681a6d809bb899bc10x420331b722e3b5a4b738a7edd6a629ead48c5c980xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x4b745b4e9925778f85ee364681a6d809bb899bc1",
+          "pledgeAmount": "7535921392512010025239"
+        },
+        {
+          "id": "0x4b745b4e9925778f85ee364681a6d809bb899bc10xa2b762071e74da03df65df7963722bfceca944ed0xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x4b745b4e9925778f85ee364681a6d809bb899bc1",
+          "pledgeAmount": "23384168120934700828623"
+        },
+        {
+          "id": "0x4b745b4e9925778f85ee364681a6d809bb899bc10xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x4b745b4e9925778f85ee364681a6d809bb899bc1",
+          "pledgeAmount": "100768220614275544"
+        },
+        {
+          "id": "0x4bb12a8273109243cd7eb908af4b27aa83a88a240xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x4bb12a8273109243cd7eb908af4b27aa83a88a24",
+          "pledgeAmount": "161282188134851"
+        },
+        {
+          "id": "0x4c09fc918bf73b12e39181b3b462806e0f7d72220x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x4c09fc918bf73b12e39181b3b462806e0f7d7222",
+          "pledgeAmount": "778637120161285606269478"
+        },
+        {
+          "id": "0x4c6bad07df19b0c5688ebe21357fab842ea390a60x04f538583568606c5267f5ab40a594e9801262d30x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x4c6bad07df19b0c5688ebe21357fab842ea390a6",
+          "pledgeAmount": "208837820736619976"
+        },
+        {
+          "id": "0x4c7f3706fbb8419e87a7944059c6fee0830a5bb90xfa7fe51a4904586f9bfe5ba0eb93246928324f520x0298c2b32eae4da002a15f36fdf7615bea3da047",
+          "owner": "0x4c7f3706fbb8419e87a7944059c6fee0830a5bb9",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x4f7632a97ac262f1aec4ff8f1effe5cb11a62ec50x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x4f7632a97ac262f1aec4ff8f1effe5cb11a62ec5",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b0x01b49799d6301082fb612d4e9895b630dcccb5970x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+          "owner": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b",
+          "pledgeAmount": "502405025180485027547"
+        },
+        {
+          "id": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b0x01b49799d6301082fb612d4e9895b630dcccb5970x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+          "owner": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b",
+          "pledgeAmount": "784264439116276064528"
+        },
+        {
+          "id": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b0x181ef02b6134a5454f8f15886877d481d01fd6300xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b",
+          "pledgeAmount": "0"
+        },
+        {
+          "id": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b0x181ef02b6134a5454f8f15886877d481d01fd6300xcbd6cb9243d8e3381fea611ef023e17d1b7aedf0",
+          "owner": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b",
+          "pledgeAmount": "893665749219807389829520"
+        },
+        {
+          "id": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b0x420331b722e3b5a4b738a7edd6a629ead48c5c980x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+          "owner": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b",
+          "pledgeAmount": "889663152888901282077"
+        },
+        {
+          "id": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b0x4b8194c6340af433cc2d57c80e1c1cce3944e5090x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+          "owner": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b",
+          "pledgeAmount": "130961394662093376804835"
+        },
+        {
+          "id": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b0x5e436aaf61be0815b6b607791602e0afbf46878e0xa71edc38d189767582c38a3145b5873052c3e47a",
+          "owner": "0x506884697f0bb3715b0ff07ab256bce1e705cf4b",
+          "pledgeAmount": "0"
+        }
+      ]
+    }
+  }
