@@ -1,7 +1,6 @@
-import { rejects } from "node:assert"
-import { textChangeRangeIsUnchanged } from "typescript"
 
-function foo() {
+
+function myfoo() {
     return new Promise<string>((resolve, reject) => {
         try {
             resolve("Some value")
@@ -11,7 +10,7 @@ function foo() {
     })
 }
 
-foo()
+myfoo()
     .then((value) => {
         console.log("get value:", value)
     })
