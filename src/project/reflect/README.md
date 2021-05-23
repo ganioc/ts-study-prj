@@ -1,3 +1,8 @@
+## How to use the lib reflect-metadata?
+give some trying.
+
+
+
 ## Basic code
 
 ```javascript
@@ -146,6 +151,8 @@ export default class Index{
 ## Use Reflect Metadata
 
 ```typescript
+
+// 定义装饰器
 export const CONTROLLER_METADATA = 'controller';
 export const ROUTE_METADATA = 'method';
 export const PARAM_METADATA = 'param';
@@ -173,6 +180,34 @@ export function createParamDecorator(type:Param){
     }
 }
 
+// 装饰器注入
+const router = express.Router()
+
+const controllerStore = {
+    index: new IndexController(),
+    user: new UserController()
+}
+
+Object.values(controllerStore).forEach(instance =>{
+    const controllerMetadata: string = Reflect.getMetadata(CONTROLLER_METADATA, instance.constructor);
+
+    const proto = Object.getPrototypeOf(instance);
+
+    const routeNameArr = Object.getOwnPropertyNames(proto).filter(
+        n=>n!== 'constructor' && typeof proto[n] === 'function'
+    )
+
+    routeNameArr.forEach(routeName =>{
+        const routeMetadata: RouteType = Reflect.getMetadata(ROUTE_METADATA, proto[routeName])
+        const {type, path} = routeMetadata;
+        const handler = handlerFactory(
+            proto[routeName],
+            Reflect.getMetadata(PARAM_METADATA, instance, routeName),
+            Reflect.getMetadata(PARSE_METADATA, instance, routeName),
+        )
+        route[type](controllerMetadata + path, handler)
+    })
+})
 ```
 
 
